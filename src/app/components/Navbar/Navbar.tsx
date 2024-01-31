@@ -32,19 +32,27 @@ export default function Navbar() {
             <DropdownMenuSeparator />
             <DropdownMenuGroup>
               <DropdownMenuItem>
-                <Link href="/about/evolution">Evoluția tehnologiei filmului</Link>
+                <Link href="/about/evolution">
+                  Evoluția tehnologiei filmului
+                </Link>
               </DropdownMenuItem>
               <DropdownMenuItem>
-                <Link href="/about/impact">Impactul serviciilor de streaming</Link>
+                <Link href="/about/impact">
+                  Impactul serviciilor de streaming
+                </Link>
               </DropdownMenuItem>
               <DropdownMenuItem>
-                <Link href="/about/representation">Reprezentarea în cinema</Link>
+                <Link href="/about/representation">
+                  Reprezentarea în cinema
+                </Link>
               </DropdownMenuItem>
               <DropdownMenuItem>
-                <Link href="/about/festivals">Festivaluri de film</Link>
+                <Link href="/about/fetivals">Festivaluri de film</Link>
               </DropdownMenuItem>
               <DropdownMenuItem>
-                <Link href="/about/genres">Genurile și Tendințele Cinematografice</Link>
+                <Link href="/about/genres">
+                  Genurile și Tendințele Cinematografice
+                </Link>
               </DropdownMenuItem>
               <DropdownMenuItem>
                 <Link href="/about/behind">În Culisele Producției de Film</Link>
@@ -53,43 +61,17 @@ export default function Navbar() {
                 <Link href="/about/cinema">Cinematografia și Societatea</Link>
               </DropdownMenuItem>
               <DropdownMenuItem>
-                <Link href="/about/perservation">Preservarea și Restaurarea Filmelor</Link>
+                <Link href="/about/perservation">
+                  Preservarea și Restaurarea Filmelor
+                </Link>
               </DropdownMenuItem>
               <DropdownMenuItem>
-                <Link href="/about/international">Cinematografia Internațională</Link>
+                <Link href="/about/international">
+                  Cinematografia Internațională
+                </Link>
               </DropdownMenuItem>
               <DropdownMenuItem>
                 <Link href="/about/business">Afacerile în Cinematografie</Link>
-              </DropdownMenuItem>
-              <DropdownMenuItem>
-                <Link href="/">Marvel</Link>
-              </DropdownMenuItem>
-              <DropdownMenuItem>
-                <Link href="/">Marvel</Link>
-              </DropdownMenuItem>
-              <DropdownMenuItem>
-                <Link href="/">Marvel</Link>
-              </DropdownMenuItem>
-              <DropdownMenuItem>
-                <Link href="/">Marvel</Link>
-              </DropdownMenuItem>
-              <DropdownMenuItem>
-                <Link href="/">Marvel</Link>
-              </DropdownMenuItem>
-              <DropdownMenuItem>
-                <Link href="/">Marvel</Link>
-              </DropdownMenuItem>
-              <DropdownMenuItem>
-                <Link href="/">Marvel</Link>
-              </DropdownMenuItem>
-              <DropdownMenuItem>
-                <Link href="/">Marvel</Link>
-              </DropdownMenuItem>
-              <DropdownMenuItem>
-                <Link href="/">Marvel</Link>
-              </DropdownMenuItem>
-              <DropdownMenuItem>
-                <Link href="/">Marvel</Link>
               </DropdownMenuItem>
             </DropdownMenuGroup>
           </DropdownMenuContent>
